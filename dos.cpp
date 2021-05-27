@@ -7,6 +7,6 @@ using namespace std;
 int main() 
 {
     cout << "Dos cpp";
-        cout << "Duplico";
+        cout << "Duplico desde GitHub";
     return 0;
 }
