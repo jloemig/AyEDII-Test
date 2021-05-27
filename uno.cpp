@@ -6,6 +6,7 @@
 using namespace std;
 int main() 
 {
-    cout << "Hola Mundo AyED II 2!";
+    cout << "Hola Mundo AyED II";
+        cout << "Hola Mundo AyED II";
     return 0;
 }
